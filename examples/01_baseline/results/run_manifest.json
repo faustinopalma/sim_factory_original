@@ -1,0 +1,18 @@
+{
+  "command": "<local-python> <repository>/sim_factory.py",
+  "engine_modified": false,
+  "event_log_modified": false,
+  "event_log_sha256": "71c122ed00aa476237289951f6621be15acd185b39651549a1cc17328390402c",
+  "input_sha256": "4f71f67991cbc0a6f3172cd836672998554efc818a33adb658375c97c8f07496",
+  "pandas": "0.24.2",
+  "platform": "win-amd64",
+  "python": "3.7.9",
+  "scenario": {
+    "id": "01_baseline",
+    "label": "Constrained factory",
+    "packing_cells": 1,
+    "workers": 6
+  },
+  "source_engine_sha256": "dc5c4f7c20079b9d1f478c24f2d82840939e0864acee8017ea483639ce9e6b91",
+  "synthetic_seed": 41729
+}

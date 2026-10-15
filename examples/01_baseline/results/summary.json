@@ -1,0 +1,21 @@
+{
+  "activity_counts": {
+    "external_lead_time": 337,
+    "production": 318,
+    "setup": 99,
+    "take_from_warehouse": 55
+  },
+  "calendar_horizon_hours": 2688,
+  "completed_units": 58,
+  "events": 809,
+  "initial_finished_units_used": 3,
+  "last_completion": "2035-03-16T05:00:00",
+  "mean_order_late_days": 10.763889,
+  "mean_order_lead_days": 19.701389,
+  "ordered_units": 58,
+  "orders": 18,
+  "orders_on_time": 5,
+  "scenario": "01_baseline",
+  "simulation_stop_hours": 2521,
+  "worker_hours": 1061.0
+}

@@ -1,0 +1,3 @@
+scenario,ordered_units,completed_units,orders,orders_on_time,mean_order_lead_days,mean_order_late_days,last_completion,worker_hours,events
+01_baseline,58,58,18,5,19.701389,10.763889,2035-03-16T05:00:00,1061.0,809
+02_capacity,58,58,18,13,7.550926,0.655093,2035-02-19T05:00:00,1107.0,827

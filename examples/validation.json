@@ -1,0 +1,19 @@
+{
+  "checks": [
+    "test_complete_raw_outputs_and_hashes",
+    "test_engine_matches_published_original",
+    "test_finished_units_and_initial_stock_are_accounted_for",
+    "test_reported_totals_match_raw_events",
+    "test_reruns_reproduce_event_logs_byte_for_byte",
+    "test_scenario_changes_are_only_declared_resources",
+    "test_synthetic_source_is_generated_not_imported",
+    "test_whole_hour_constraint_is_explicit",
+    "test_work_respects_cells_workers_and_calendar"
+  ],
+  "errors": 0,
+  "failures": 0,
+  "source_engine_sha256": "dc5c4f7c20079b9d1f478c24f2d82840939e0864acee8017ea483639ce9e6b91",
+  "status": "passed",
+  "tests": 9,
+  "validated_at_utc": "2026-10-15T13:58:28.558767Z"
+}

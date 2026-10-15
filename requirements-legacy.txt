@@ -1,0 +1,17 @@
+numpy==1.19.5
+pandas==0.24.2
+simpy==3.0.11
+xlrd==1.2.0
+openpyxl==3.0.10
+et-xmlfile==1.1.0
+python-dateutil==2.8.2
+pytz==2024.1
+six==1.16.0
+matplotlib==3.5.3
+Pillow==9.5.0
+cycler==0.11.0
+fonttools==4.38.0
+kiwisolver==1.4.5
+packaging==23.2
+pyparsing==3.1.4
+typing-extensions==4.7.1

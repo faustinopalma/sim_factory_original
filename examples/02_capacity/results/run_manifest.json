@@ -1,0 +1,18 @@
+{
+  "command": "<local-python> <repository>/sim_factory.py",
+  "engine_modified": false,
+  "event_log_modified": false,
+  "event_log_sha256": "b58da1ececc99933296ed4a4ffd67eda1dc6a87a2fce00dc476b5fb8e187117f",
+  "input_sha256": "cccf2960dfeaf954429ea842ff7a257fa9d710ad166bebe33893b33f5265d28a",
+  "pandas": "0.24.2",
+  "platform": "win-amd64",
+  "python": "3.7.9",
+  "scenario": {
+    "id": "02_capacity",
+    "label": "Additional packing capacity",
+    "packing_cells": 2,
+    "workers": 8
+  },
+  "source_engine_sha256": "dc5c4f7c20079b9d1f478c24f2d82840939e0864acee8017ea483639ce9e6b91",
+  "synthetic_seed": 41729
+}
